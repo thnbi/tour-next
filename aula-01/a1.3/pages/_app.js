@@ -6,8 +6,10 @@ function MyApp({ Component, pageProps }) {
           * {
             margin: 0;
             padding: 0;
-            font-size: 2rem;
             font-family: sans-serif;
+            background-color: #f5f5f5;
+            color: #332;
+            font-size: 1.2rem;
           }
         `}
       </style>
